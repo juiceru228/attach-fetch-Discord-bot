@@ -1,1 +1,2 @@
-# attach-fetch-Discord-bot
+# AttachmentsFetchBot
+Bot for downloading all attachments from discord servers.
